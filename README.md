@@ -16,4 +16,6 @@ qereqwr
 
 第五次添加（在切回master的时候）：sdfdafdfadfadfaffasdfd
 
+conflict后重新编辑 README.md 为想要的内容：
+第六次添加（在conflict_branch的时候）：sdasdbnxchs
 第七次添加（在conflict_branch的时候，这次在master的README.md里面改不一样的）：kkkkkkkk
